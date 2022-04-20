@@ -1,0 +1,13 @@
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.exe
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.deps.json
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.runtimeconfig.json
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.runtimeconfig.dev.json
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.dll
+C:\adev\TikTakToe\bin\Debug\netcoreapp3.1\TikTakToe.pdb
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.csproj.AssemblyReference.cache
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.AssemblyInfoInputs.cache
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.AssemblyInfo.cs
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.csproj.CoreCompileInputs.cache
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.dll
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.pdb
+C:\adev\TikTakToe\obj\Debug\netcoreapp3.1\TikTakToe.genruntimeconfig.cache
